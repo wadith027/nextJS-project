@@ -1,6 +1,8 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
+Set .env file
+NEXT_PUBLIC_API_URL=http://localhost:8000
 
 First, run the development server:
 
